@@ -104,14 +104,9 @@ Sustainability Modeling
 
 Analyze the potential for sustainable farming, crop rotation, or organic land revival
 
- References
-Government Data Portals
+References
+The data used in this project was primarily sourced from official government data portals, ensuring credibility and relevance to real-world agricultural statistics. The analysis and visualizations were conducted using Python programming language, with extensive reliance on libraries such as Pandas, Matplotlib, Seaborn, and NumPy, all of which are thoroughly documented in the official Python and library-specific documentation. The book Python for Data Analysis by Wes McKinney was an essential academic resource that provided deeper insights into data manipulation and analysis techniques. Additionally, Jupyter Notebook served as the primary environment for coding, exploratory analysis, and report generation, allowing for a seamless combination of code, output, and explanations in a single document.
 
-Python documentation and libraries (Pandas, Matplotlib, Seaborn, NumPy)
-
-Academic resources like Python for Data Analysis by Wes McKinney
-
-Jupyter Notebook for analysis and report generation
 
 conclusion
 
