@@ -92,17 +92,11 @@ State-Level Decision Support
 
 Build dashboards or reports with custom recommendations for each state based on land use efficiency
 
-Geospatial Visualization
+Geospatial Visualization, Crop-Based Classification, and Sustainability Modeling
 
-Use GIS tools like Folium or GeoPandas to map land distribution across regions for more interactive insights
+To enhance insights into land use patterns, geospatial visualization tools like Folium and GeoPandas can be employed to map land distribution across various regions, providing interactive and intuitive understanding. Additionally, land can be classified based on crop types, seasonal usage, and irrigation practices, aiding in effective crop planning and resource allocation. Moving towards long-term agricultural viability, sustainability modeling plays a crucial role by evaluating the potential for crop rotation, organic farming, and land revival techniques, thereby supporting more sustainable and environmentally-friendly farming practices.
 
-Crop-Based Classification
 
-Classify land based on crop types, seasonal usage, or irrigation practices to guide crop planning
-
-Sustainability Modeling
-
-Analyze the potential for sustainable farming, crop rotation, or organic land revival
 
 References
 The data used in this project was primarily sourced from official government data portals, ensuring credibility and relevance to real-world agricultural statistics. The analysis and visualizations were conducted using Python programming language, with extensive reliance on libraries such as Pandas, Matplotlib, Seaborn, and NumPy, all of which are thoroughly documented in the official Python and library-specific documentation. The book Python for Data Analysis by Wes McKinney was an essential academic resource that provided deeper insights into data manipulation and analysis techniques. Additionally, Jupyter Notebook served as the primary environment for coding, exploratory analysis, and report generation, allowing for a seamless combination of code, output, and explanations in a single document.
