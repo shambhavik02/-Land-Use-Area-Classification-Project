@@ -67,13 +67,9 @@ Interpret visualizations for stakeholders
 Outline future research directions
 
  Key Findings:
-Most land use features are left-skewed, with few states having high values
+Most of the land use features in the dataset are left-skewed, which means that only a few states have very high values. States like Uttar Pradesh and Maharashtra stand out as they have the highest net area sown and cultivated. There is also a strong positive relationship between the sown area and the cultivated area—states that sow more land also tend to cultivate more. Additionally, the presence of outliers and differences across states shows that agricultural capacity varies widely from one state to another.
 
-Uttar Pradesh and Maharashtra dominate in net area sown and cultivated
 
-Strong positive correlation exists between sown and cultivated areas
-
-Outliers and variability indicate differing state-level agricultural capacities
 
  Future Scope:
 The future scope of this land-use analysis project can be expanded in multiple directions to provide richer insights and more robust decision-making tools. First, Time-Series Analysis can be integrated to track land use trends over the years, helping to identify long-term shifts and evaluate the impact of different policies on land use patterns. By adding year-wise data, one can observe temporal trends and predict future patterns, using techniques such as ARIMA or Prophet for forecasting.
