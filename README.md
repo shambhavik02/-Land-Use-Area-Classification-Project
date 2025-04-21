@@ -29,11 +29,13 @@ Standardize naming conventions
 Format data types appropriately
 
  2. Data Transformation
-Reshape data for advanced plots
+We performed the following transformations to prepare the data for advanced analysis and visualizations:
 
-Apply log transformations to normalize skewed data
+Reshaped Data: Adjusted the structure of the dataset for creating advanced plots.
 
-Create new columns for visual analysis
+Log Transformations: Applied to normalize skewed data, making distributions more even and ready for analysis.
+
+New Columns: Created new columns for better visual analysis and comparison of land use features.
 
  3. Visualization & Analysis
 We used Matplotlib and Seaborn to perform various visualizations for a better understanding of the land use data:
