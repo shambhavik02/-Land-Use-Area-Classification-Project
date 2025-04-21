@@ -51,13 +51,17 @@ Scatter Plots: Explore correlations between land types
 Heatmaps: Examine feature-wise correlations
 
  4. Insights & Interpretation
-Identify high and low performing states
+By analyzing the dataset, we can identify which states perform well or poorly in terms of land use. States like Uttar Pradesh and Maharashtra show high values, indicating better land utilization. The data also reveals skewness — most states have low values, while a few have very high ones, creating outliers. Exploring the relationships between variables (like net area sown and cultivated) helps us understand how efficiently land is used and whether there's a strong link between different land use features.
 
-Understand land utilization efficiency
 
-Detect data skewness and outliers
 
-Evaluate inter-variable relationships
+
+
+
+
+
+
+
 
  5. Reporting & Documentation
 Compile findings in a detailed report
