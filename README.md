@@ -19,14 +19,19 @@ Uncultivated Area
 Link: https://ndap.niti.gov.in/dataset/7172
 
  Project Modules:
- 1. Data Collection & Preparation
-Source and download dataset
+  Data Collection & Preparation
+📥 Source and Download Dataset
+Acquired land use data from reliable open government repositories or verified third-party sources.
 
-Inspect structure and clean missing values
+🔍 Inspect Structure and Clean Missing Values
+Performed initial data exploration to identify null values, anomalies, and inconsistencies. Applied imputation or removed irrelevant entries as needed.
 
-Standardize naming conventions
+📝 Standardize Naming Conventions
+Ensured consistency across column headers and categorical values (e.g., "Net Area Sown" vs. "net_area_sown").
 
-Format data types appropriately
+📊 Format Data Types Appropriately
+Converted all columns to suitable data types—numerical, categorical, or datetime—to ensure seamless analysis and visualization.
+
 
  2. Data Transformation
 To prepare the dataset for insightful analysis and meaningful visualizations, we performed several key transformations:
