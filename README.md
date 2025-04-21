@@ -29,11 +29,20 @@ Standardize naming conventions
 Format data types appropriately
 
  2. Data Transformation
-We performed the following transformations to prepare the data for advanced analysis and visualizations:
+To prepare the dataset for insightful analysis and meaningful visualizations, we performed several key transformations:
 
-Reshaped Data: Adjusted the structure of the dataset for creating advanced plots.
+Reshaped the Data:
+We adjusted the layout of the dataset, such as converting wide format to long format, to make it easier to create advanced plots like grouped bar charts and heatmaps.
 
-Log Transformations: Applied to normalize skewed data, making distributions more even and ready for analysis.
+Log Transformations:
+Some land use features had large differences in values across states, leading to skewed distributions. To fix this, we applied log transformations, which helped normalize the data. This made patterns more visible and reduced the impact of extreme outliers.
+
+New Column Creation:
+We derived additional columns (e.g., percentage of net sown area, cultivated-to-sown ratio) to highlight important relationships and support visual exploration.
+
+These transformations improved the quality of the data and helped us generate clearer, more accurate insights.
+
+
 
 New Columns: Created new columns for better visual analysis and comparison of land use features.
 
