@@ -7,7 +7,7 @@ df.head(1)
 print(df.dtypes)
 print(df.shape)
 print("Null values: ",df.isnull().sum())
-print(df.describe())
+print(df.describe()
 import seaborn as sns
 import matplotlib.pyplot as plt
 columns = ['Net area sown', 'Area under current fallows', 'Net area cultivated', 'Uncultivated area ']
