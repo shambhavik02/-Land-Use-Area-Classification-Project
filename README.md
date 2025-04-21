@@ -36,19 +36,19 @@ Apply log transformations to normalize skewed data
 Create new columns for visual analysis
 
  3. Visualization & Analysis
-Performed using Matplotlib & Seaborn:
+We used Matplotlib and Seaborn to perform various visualizations for a better understanding of the land use data:
 
-Histograms: Analyze distribution of land use
+Histograms: Show how land use is distributed across states.
 
-Bar Charts: Compare land types across states
+Bar Charts: Compare the different land types across states.
 
-Box Plots: Visualize spread and outliers
+Box Plots: Display the spread of land use data and highlight any outliers.
 
-Pie & Donut Charts: Show proportion of land usage
+Pie & Donut Charts: Visualize the proportion of different land usage types.
 
-Scatter Plots: Explore correlations between land types
+Scatter Plots: Explore how land types are correlated with each other.
 
-Heatmaps: Examine feature-wise correlations
+Heatmaps: Analyze correlations between various features of land use.
 
  4. Insights & Interpretation
 By analyzing the dataset, we can identify which states perform well or poorly in terms of land use. States like Uttar Pradesh and Maharashtra show high values, indicating better land utilization. The data also reveals skewness — most states have low values, while a few have very high ones, creating outliers. Exploring the relationships between variables (like net area sown and cultivated) helps us understand how efficiently land is used and whether there's a strong link between different land use features.
